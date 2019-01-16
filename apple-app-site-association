@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "ZCMZR6BBE5.com.saristotelis.uniLinks",
-				"paths": [ "*"]
+				"paths": [ "/*"]
 			}
 		]
 	}
